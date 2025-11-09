@@ -1,0 +1,1 @@
+This project demonstrates how to create a Smart Switch Board using the ESP32 microcontroller and the Blynk IoT platform. It allows you to control multiple electrical appliances remotely from your smartphone using the Blynk app.
